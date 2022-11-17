@@ -52,7 +52,7 @@
     "enzyme-adapter-react-16": "^1.1.0",
     "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^1.1.5",
-    "html-webpack-plugin": "^2.30.1",
+    "html-webpack-plugin": "^5.5.0",
     "jsdom-global": "^3.0.2",
     "mocha": "^4.0.1",
     "nodemon": "^1.14.7",
