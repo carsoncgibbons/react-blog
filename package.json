@@ -24,7 +24,7 @@
     "cookie-parser": "1.4.3",
     "cors": "2.8.4",
     "cosmicjs": "2.4.22",
-    "express": "4.16.2",
+    "express": "4.17.3",
     "history": "4.7.2",
     "jsdom": "^11.5.1",
     "lodash": "4.17.4",
